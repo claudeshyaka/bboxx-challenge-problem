@@ -1,0 +1,31 @@
+*****************************************
+* Claude Shyaka
+* Project: Battling Knights
+***************************************** 
+
+*****************
+Program Execution
+*****************
+
+    Follow the instructions below to execution this program:
+        1. Start the command line
+        2. Navigate to the directory containing main file, that is 'main.py'
+        3. Enter the main file name 'main.py' followed by the the '-i' flag and input file.
+            e.g. > main.py -i <inputfileName>
+
+*********
+Containts
+*********
+The batting knight directory contain the following files.
+    1. item.py - defines the Item class.
+    2. knight.py - defines the Knight class
+    3. game.py - defines the game class which contains the game's main business logic.
+    4. main.py - the program entry point.
+    5. movesError.txt - fail test case
+    6. moves.txt - success test case
+    7. moves1.txt - success test case
+    8. moves2.txt - success test case
+    9. moves3.txt - success test case
+   10. final_state.json - json file containing the final state of the board.
+
+

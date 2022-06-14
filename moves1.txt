@@ -1,0 +1,7 @@
+R:S
+R:S
+B:E
+G:N
+Y:N
+R:E
+R:E

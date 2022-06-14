@@ -1,0 +1,16 @@
+R:S
+R:S
+B:E
+G:N
+Y:N
+R:E
+R:E
+R:E
+R:E
+R:E
+R:E
+G:N
+G:N
+G:N
+G:N
+G:W
